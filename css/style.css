@@ -52,7 +52,9 @@ h2{
     transition: .2s;
 }
 
-.btn:hover{
+.btn:hover, 
+.btn:disabled,
+.btn-ativo{
     background-color: white;
     color: #F37CFA;
     border: 1px solid #F37CFA;
