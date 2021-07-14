@@ -9,13 +9,13 @@ body{
     width: 100%;
     height: 100vh;
     margin: 0 auto;
+    padding: 40px;
     background: linear-gradient(120deg ,#F37CFA, #573589);
     background-repeat: no-repeat;
 }
 
 h1{
     text-align: center;
-    margin: 40px;
     text-transform: uppercase;
 }
 
