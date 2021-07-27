@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  👉 <a href="https://alencarleo.github.io/JS-Chronometer/>click here to see this project</a> 👈
+  👉 <a href="https://alencarleo.github.io/JS-Chronometer/">click here to see this project</a> 👈
 </p>
 
 <p align="center">
